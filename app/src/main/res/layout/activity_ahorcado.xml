@@ -15,4 +15,13 @@
         android:layout_alignParentEnd="true"
         android:layout_marginRight="255dp"
         android:layout_marginEnd="255dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jola"
+        android:id="@+id/textView2"
+        android:layout_above="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="82dp" />
 </RelativeLayout>
